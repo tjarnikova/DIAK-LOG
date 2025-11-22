@@ -4,7 +4,7 @@ A small universal reader-listener-viewer diary in python.
 
 *Malý univerzální čtenářskoposluchačskodivácký deník v pythonu.*
 
-Track books, music, articles, podcasts, films, etc from the command line (if you're the kind of person who wants to keep a diary in the command line). 
+Track media from the command line (if you're the kind of person who wants to keep a diary in the command line). 
 
 *Mediální deník v příkazovém řádku, pro lidi co mají rádi příkazový řádek.*
 
