@@ -1,12 +1,15 @@
 # DIAK-LOG
 
 A small universal reader-listener-viewer diary in python.
+
 *Malý univerzální čtenářskoposluchačskodivácký deník v pythonu.*
 
 Track books, music, articles, podcasts, films, etc from the command line (if you're the kind of person who wants to keep a diary in the command line). 
+
 *Mediální deník v příkazovém řádku, pro lidi co mají rádi příkazový řádek.*
 
 Available in **Czech** (diak) and **English** (loglog).
+
 *K dispozici v češtině (diak) i angličtině (loglog).*
 
 ## Usage / Použití
@@ -58,12 +61,12 @@ python loglog-export.py type   # → loglog_type.txt
 
 | File / Soubor | Description / Popis |
 |---------------|---------------------|
-| `diak.py` | Main program (Czech) / Hlavní program (česky) |
-| `diak_export.py` | Export tool (Czech) / Export (česky) |
-| `diak.csv` | Data file (Czech) / Data (česky) |
-| `loglog.py` | Main program (English) / Hlavní program (anglicky) |
-| `loglog-export.py` | Export tool (English) / Export (anglicky) |
-| `loglog.csv` | Data file (English) / Data (anglicky) |
+| `diak.py` | Hlavní program (česky) |
+| `diak_export.py` | Export (česky) |
+| `diak.csv` | Data (česky) |
+| `loglog.py` | Main program (English) |
+| `loglog-export.py` | Export tool (English) |
+| `loglog.csv` | Data file (English) |
 
 ## Requirements / Požadavky
 
